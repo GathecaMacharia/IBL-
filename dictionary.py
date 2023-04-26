@@ -9,5 +9,3 @@ students={
 }
 
 #print(students["kelvin"])
-for student in students:
-    print(student,students[student])
